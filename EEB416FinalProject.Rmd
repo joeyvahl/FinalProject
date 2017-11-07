@@ -1,0 +1,23 @@
+---
+title: "EEB416FinalProject"
+author: "Joseph Vahl"
+date: "11/7/2017"
+output: html_document
+---
+# My 4 species are:
+# CPLT Nov 14 2016
+# GCYL Nov 13 2016
+# QMUN Nov 13 2016
+# TRLB Nov 13 2016
+# website: web.corral.tacc.utexas.edu/OneKP
+# samtools/1.5 bwa/0.7.15
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r Data Origins}
+
+```
+
